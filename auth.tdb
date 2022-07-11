@@ -1,0 +1,5 @@
+DBName: auth
+username: admin
+password: pass
+
+{"username": ["Caleb", "Josh"], "password": ["josh", "caleb"], "hello": ["yes", "yes"]}
